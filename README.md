@@ -7,9 +7,9 @@
 
 ## Gaerisson's presentation !
 
-My name is Gaëtan, I am 21 years old, I am from France (Loir-et-Cher), I am currently in SNEM training (Systems and Networks Engineering Manager) (RISR in French).
+My name is Gaëtan, I am 21 years old, I'm from France (Loir-et-Cher), I am currently in SNEM training (Systems and Networks Engineering Manager) (RISR in French).
 
-I manage a small multigaming community, so I have a dedicated server at OVH with a nice ProxMox and therefore lots of containers / VMs for different services, like Youtube Downloader / game servers / API etc...
+I manage a small multigaming community (HeavyBox), so I have a dedicated server at OVH with a nice ProxMox and therefore lots of containers / VMs for different services, like Youtube Downloader / game servers / API etc...
 
 I have been an amateur photographer since I was 18 (📷 http://bit.ly/2LPkUjL) photography is therefore part of my hobbies, like:
  - DIY (electronics (Arduino / Various projects / Home automation))
