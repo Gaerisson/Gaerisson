@@ -7,7 +7,7 @@
 
 ## Gaerisson's presentation !
 
-My name is Gaëtan, I am 22 years old, I'm from France (Loir-et-Cher), I am currently in SNEM training (Systems and Networks Engineering Manager) (RISR in French).
+My name is Gaëtan, I am 23 years old, I'm from France (Loir-et-Cher), I am currently in SNEM training (Systems and Networks Engineering Manager) (RISR in French).
 
 I manage a small multigaming community (HeavyBox), so I have a dedicated server at OVH with a nice ProxMox and therefore lots of containers / VMs for different services, like Youtube Downloader / Game Servers / VPN / WebRadio Bot / API etc...
 
