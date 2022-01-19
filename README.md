@@ -7,6 +7,8 @@
 
 ## Gaerisson's presentation !
 
+⚠️My main discord account "Gaerisson#1337" was hacked (it is not under me for now)⚠️
+
 My name is Gaëtan, I am 23 years old, I'm from France (Loir-et-Cher), I am currently in SNEM training (Systems and Networks Engineering Manager) (RISR in French).
 
 I manage a small multigaming community (HeavyBox), so I have a dedicated server at OVH with a nice ProxMox and therefore lots of containers / VMs for different services, like Youtube Downloader / Game Servers / VPN / WebRadio Bot / API etc...
