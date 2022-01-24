@@ -7,7 +7,7 @@
 
 ## Gaerisson's presentation !
 
-⚠️My main discord account "Gaerisson#1337" was hacked (it is not me for now)⚠️
+⚠️ My main discord account "Gaerisson#1337" was hacked (it is not me for now) **(you can delete my old account because Discord "is unable to restore access to me", it will be deleted)** ⚠️
 
 My name is Gaëtan, I am 23 years old, I'm from France (Loir-et-Cher), I am currently in SNEM training (Systems and Networks Engineering Manager) (RISR in French).
 
