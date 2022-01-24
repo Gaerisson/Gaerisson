@@ -17,7 +17,8 @@ I have been an amateur photographer since I was 18 (📷 http://bit.ly/2LPkUjL) 
  - DIY (electronics (Arduino / Various projects / Home automation))
  - the WEB / Application dev (GLUA / PHP / C# / NodeJS)
  - IT (troubleshooting / network / help)
- - the drawing ... (digital> available on my Insta) (beginner)
+ - Drawing ... (digital> available on my Insta) (beginner)
+ - 3D printing (for now custom CR10S, later Prusa XL)
 (etc ... I try to diversify in different fields)
 
 ## Github Stats
