@@ -7,8 +7,7 @@
 
 ## Gaerisson's presentation !
 
-⚠️ My main discord account "Gaerisson#1337" was hacked (it is not me for now) **(you can delete my old account because Discord "is unable to restore access to me", it will be deleted)** ⚠️
-> ⚠️ Update: I just recovered my main account "Gaerisson#1337", you can unblock/add me back on this account ⚠️
+⚠️ I just recovered my main account "Gaerisson#1337", you can unblock/add me back on this account ⚠️
 
 My name is Gaëtan, I am 23 years old, I'm from France (Loir-et-Cher), I am currently in SNEM training (Systems and Networks Engineering Manager) (RISR in French).
 
@@ -21,6 +20,8 @@ I have been an amateur photographer since I was 18 (📷 http://bit.ly/2LPkUjL) 
  - Drawing ... (digital> available on my Insta) (beginner)
  - 3D printing (for now custom CR10S, later Prusa XL)
 (etc ... I try to diversify in different fields)
+
+My discord: http://discord.heavybox.fr - Gaerisson#1337
 
 ## Github Stats
 <img align="left" alt="Gaerisson's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Gaerisson&show_icons=true&hide_border=true" />
