@@ -7,11 +7,9 @@
 
 ## Gaerisson's presentation !
 
-⚠️ I just recovered my main account "Gaerisson#1337", you can unblock/add me back on this account ⚠️
-
 My name is Gaëtan, I am 23 years old, I'm from France (Loir-et-Cher), I am currently in SNEM training (Systems and Networks Engineering Manager) (RISR in French).
 
-I manage a small multigaming community (HeavyBox), so I have a dedicated server at OVH with a nice ProxMox and therefore lots of containers / VMs for different services, like Youtube Downloader / Game Servers / VPN / WebRadio Bot / API etc...
+I manage a small community (HeavyBox), so I have a dedicated server at OVH with a nice ProxMox and therefore lots of containers / VMs for different services, like Youtube Downloader / Game Servers / VPN / WebRadio Bot / API etc...
 
 I have been an amateur photographer since I was 18 (📷 http://bit.ly/2LPkUjL) photography is therefore part of my hobbies, like:
  - DIY (electronics (Arduino / Various projects / Home automation))
