@@ -64,7 +64,7 @@ I enjoy learning by doing, breaking things (occasionally 😅), fixing them, and
 ### 🌐 Find Me Around
 
 [![GitHub](https://img.shields.io/badge/GitHub-Gaerisson-181717?style=for-the-badge&logo=github)](https://github.com/Gaerisson)
-[![Photography](https://img.shields.io/badge/Photography-Portfolio-555555?style=for-the-badge&logo=instagram&logoColor=white)](http://bit.ly/2LPkUjL)
+[![Photography](https://img.shields.io/badge/Photography-Portfolio-555555?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gaerisson/)
 
 ---
 
