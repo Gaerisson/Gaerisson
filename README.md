@@ -1,25 +1,71 @@
-### Hello 👋
+# Hey there, I'm Gaëtan! 👋
 
-[![Website](https://img.shields.io/website?label=gaerisson-softs.fr&style=for-the-badge&url=http://gaerisson-softs.fr/)](http://gaerisson-softs.fr/)
-[![Website](https://img.shields.io/website?label=srv.gaerisson-softs.fr&style=for-the-badge&url=http://srv.gaerisson-softs.fr/)](http://srv.gaerisson-softs.fr/)
-[![Website](https://img.shields.io/website?label=heavybox.fr&style=for-the-badge&url=http://heavybox.fr/)](http://heavybox.fr/)
-[![Website](https://img.shields.io/website?label=game.heavybox.fr&style=for-the-badge&url=http://game.heavybox.fr/)](http://game.heavybox.fr/)
+**IT Engineer · Tech Enthusiast · AI Explorer**
 
-## Gaerisson's presentation !
+🇫🇷 Based in France | 28 years old
 
-My name is Gaëtan, I'm from France (Loir-et-Cher), I am currently in SNEM training (Systems and Networks Engineering Manager) (RISR in French).
+Welcome to my little corner of GitHub!
 
-I manage a small community (HeavyBox), so I have a dedicated server at OVH with a nice ProxMox and therefore lots of containers / VMs for different services, like Youtube Downloader / Game Servers / VPN / WebRadio Bot / API etc...
+I'm passionate about technology, from managing infrastructure and experimenting with self-hosted services to developing applications and exploring new ideas.
 
-I have been an amateur photographer since I was 18 (📷 http://bit.ly/2LPkUjL) photography is therefore part of my hobbies, like:
- - DIY (electronics (Arduino / Various projects / Home automation))
- - the WEB / Application dev (GLUA / PHP / C# / NodeJS)
- - IT (troubleshooting / network / help)
- - Drawing ... (digital> available on my Insta) (beginner)
- - 3D printing (for now custom CR10S, later Prusa XL)
-(etc ... I try to diversify in different fields)
+Development is one of my favorite hobbies, and lately I've been diving deeper into **Artificial Intelligence, automation, and Vibe Coding**. I'm particularly excited about how AI is changing the way we build software, so expect some AI-powered projects around here!
 
-My discord: http://discord.heavybox.fr - Gaerisson#1337
+---
 
-## Github Stats
-<img align="left" alt="Gaerisson's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Gaerisson&show_icons=true&hide_border=true" />
+### 🛠️ Tech Stack & Interests
+
+**💻 Development**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**🖥️ Infrastructure & Self-Hosting**
+
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-34495E?style=flat-square)
+
+**🤖 Currently Exploring**
+
+![AI](https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=flat-square)
+![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-FF6B6B?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-00BFA6?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square)
+
+---
+
+### 🚀 What I'm Into
+
+- 🤖 **AI & Vibe Coding** — Experimenting with LLMs, AI-assisted development, and intelligent automation.
+- 🏠 **Homelabbing** — Running my own infrastructure, virtual machines, containers, and self-hosted services.
+- ⚡ **Development** — Building tools, bots, applications, and whatever interesting idea comes to mind.
+- 🔧 **DIY & Electronics** — Arduino, home automation, hardware tinkering, and creative projects.
+- 📷 **Photography** — An amateur photographer who loves capturing moments and experimenting with photography.
+- 🖨️ **3D Printing & Laser Engraving** — Turning digital ideas into physical creations.
+
+I enjoy learning by doing, breaking things (occasionally 😅), fixing them, and figuring out how to make them better.
+
+---
+
+### 📊 GitHub Stats
+
+![Gaerisson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaerisson&show_icons=true&hide_border=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaerisson&layout=compact&hide_border=true&theme=github_dark)
+
+---
+
+### 🌐 Find Me Around
+
+[![GitHub](https://img.shields.io/badge/GitHub-Gaerisson-181717?style=for-the-badge&logo=github)](https://github.com/Gaerisson)
+[![Photography](https://img.shields.io/badge/Photography-Portfolio-555555?style=for-the-badge&logo=instagram&logoColor=white)](http://bit.ly/2LPkUjL)
+
+---
+
+*Just a curious tech enthusiast building things, exploring ideas, and having fun along the way.* 🚀
