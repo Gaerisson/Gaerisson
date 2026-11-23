@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="136" viewBox="0 0 1400 136" role="img" aria-label="Abstract circuit lines and terminal windows">
+<defs><linearGradient id="g" x2="1" y2="0"><stop stop-color="#091625"/><stop offset=".65" stop-color="#10273b"/><stop offset="1" stop-color="#091524"/></linearGradient>
+<linearGradient id="a" x2="1" y2="0"><stop stop-color="#1cc9df" stop-opacity="0"/><stop offset=".5" stop-color="#27d5e6"/><stop offset="1" stop-color="#ef9952" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1400" height="136" rx="14" fill="url(#g)"/>
+<g fill="none" stroke="#31637a" stroke-width="1.4" opacity=".48">
+<path d="M0 96 H192 L242 46 H445 L486 87 H693"/><path d="M248 136 L351 33 H557 L600 75 H870 L910 35 H1125"/><path d="M760 136 L861 46 H1054 L1097 90 H1400"/>
+</g>
+<g><circle cx="28" cy="14" r="2.7" fill="#ffac67" opacity=".38"/><circle cx="141" cy="55" r="1.5" fill="#37c5d3" opacity=".38"/><circle cx="254" cy="96" r="1.5" fill="#37c5d3" opacity=".38"/><circle cx="367" cy="35" r="1.5" fill="#ffac67" opacity=".38"/><circle cx="480" cy="76" r="1.5" fill="#37c5d3" opacity=".38"/><circle cx="593" cy="15" r="2.7" fill="#37c5d3" opacity=".38"/><circle cx="706" cy="56" r="1.5" fill="#ffac67" opacity=".38"/><circle cx="819" cy="97" r="1.5" fill="#37c5d3" opacity=".38"/><circle cx="932" cy="36" r="1.5" fill="#37c5d3" opacity=".38"/><circle cx="1045" cy="77" r="1.5" fill="#ffac67" opacity=".38"/><circle cx="1158" cy="16" r="2.7" fill="#37c5d3" opacity=".38"/><circle cx="1271" cy="57" r="1.5" fill="#37c5d3" opacity=".38"/><circle cx="64" cy="98" r="1.5" fill="#ffac67" opacity=".38"/><circle cx="177" cy="37" r="1.5" fill="#37c5d3" opacity=".38"/><circle cx="290" cy="78" r="1.5" fill="#37c5d3" opacity=".38"/><circle cx="403" cy="17" r="2.7" fill="#ffac67" opacity=".38"/><circle cx="516" cy="58" r="1.5" fill="#37c5d3" opacity=".38"/><circle cx="629" cy="99" r="1.5" fill="#37c5d3" opacity=".38"/><circle cx="742" cy="38" r="1.5" fill="#ffac67" opacity=".38"/><circle cx="855" cy="79" r="1.5" fill="#37c5d3" opacity=".38"/><circle cx="968" cy="18" r="2.7" fill="#37c5d3" opacity=".38"/><circle cx="1081" cy="59" r="1.5" fill="#ffac67" opacity=".38"/><circle cx="1194" cy="100" r="1.5" fill="#37c5d3" opacity=".38"/><circle cx="1307" cy="39" r="1.5" fill="#37c5d3" opacity=".38"/></g>
+<rect x="96" y="36" width="194" height="64" rx="9" fill="#081626" stroke="#396a7b" opacity=".84"/>
+<circle cx="114" cy="51" r="3.7" fill="#ff9960"/><circle cx="129" cy="51" r="3.7" fill="#d4b578"/><circle cx="144" cy="51" r="3.7" fill="#2bcbd0"/>
+<path d="M119 74 l13 8 -13 8 M140 91 h25" fill="none" stroke="#62d7de" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M686 103 C800 55 852 116 967 65 S1202 92 1415 27" fill="none" stroke="url(#a)" stroke-width="3"/>
+<g transform="translate(1126 36)" fill="none" stroke="#dd9455" stroke-width="2" opacity=".75">
+<rect x="0" y="0" width="71" height="59" rx="8"/><rect x="12" y="12" width="47" height="35" rx="4"/><path d="M-9 19 h9 M-9 39 h9 M71 19 h9 M71 39 h9"/>
+</g>
+<path d="M1 1 H1399 V135 H1 Z" fill="none" stroke="#2e5163" opacity=".65"/>
+</svg>
